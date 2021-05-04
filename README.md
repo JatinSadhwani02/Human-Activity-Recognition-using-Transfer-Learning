@@ -77,3 +77,7 @@ After doing 3rd and 4rd step, Make a zip file of complete data.
 
 <h1>Page 3 : Feedback</h1>
 <img src="images/seven.png" alt="one" width="800" height="450">
+
+<video width="320" height="800" controls>
+  <source src="result/1307489.avi" type="video/mp4">
+</video>
