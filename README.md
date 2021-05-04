@@ -9,6 +9,56 @@
 
 Click on the preprocess dataset link. You will get Train_Test_video_classifier.zip file. After extract the datatset. You will get two folders training and validation. Both folders contain 45-45 category folders.
 
+<h1> Category name of Training and Validation</h1>
+
+Name of Activity 
+1. Paragliding 
+2. Catching or Throwing Baseball
+3. Dancing Macarena 
+4. Laughing 
+5. Eating Cake 
+6. Beatboxing 
+7. Feeding Birds 
+8. Opening Present 
+9. Swinging On Something 
+10. Making Pizza
+11. Kitesurfing 
+12. Ice Climbing
+13. Slacklining
+14. Chopping Wood 
+15. Cartwheeling 
+16. Archery
+17. Welding
+18. Roller Skating 
+19. Playing Flute 
+20. Deadlifting 
+21. Bouncing On Trampoline 
+22. Shoveling Snow 
+23. Playing Keyboard 
+24. High Jump 
+25. Celebrating 
+26. Capoeira
+27. Finger Snapping 
+28. Side Kick 
+29. Brushing Hair
+30. Cooking Sausages 
+31. Throwing Ball 
+32. Dribbling Basketball
+33. Hammer Throw 
+34. Stretching Leg 
+35. Breakdancing 
+36. Snowmobiling 
+37. Headbanging 
+38. Exercising With an Exercise Ball 
+39. Blowing Out Candles 
+40. Canoeing or Kayaking 
+41. Watering Plants 
+42. Milking Cow 
+43. Snowboarding 
+44. Driving Car 
+45. Cheerleading
+
+
 <h1>Training and Validation </h1>
 <img src="images/one.png" alt="one" width="800" height="450">
 <h1>Training folder contains 45 categories </h1>
