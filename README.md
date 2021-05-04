@@ -72,10 +72,10 @@ After doing 3rd and 4rd step, Make a zip file of complete data.
 <h1>Page 1 : Home</h1>
 <img src="images/five.png" alt="one" width="800" height="450">
 
-<h1>Page 2 : Home (remaining)</h1>
+<h1>Page 1 : Home (remaining)</h1>
 <img src="images/six.png" alt="one" width="800" height="450">
 
-<h1>Page 3 : Feedback</h1>
+<h1>Page 2 : Feedback</h1>
 <img src="images/seven.png" alt="one" width="800" height="450">
 
 
