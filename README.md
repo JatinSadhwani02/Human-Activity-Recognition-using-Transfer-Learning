@@ -10,11 +10,11 @@
 Click on the preprocess dataset link. You will get Train_Test_video_classifier.zip file. After extract the datatset. You will get two folders training and validation. Both folders contain 45-45 category folders.
 
 <h1>Training and Validation </h1>
-<img src="one.png" alt="one" width="800" height="450">
+<img src="images/one.png" alt="one" width="800" height="450">
 <h1>Training folder contains 45 categories </h1>
-<img src="two.png" alt="one" width="800" height="450">
+<img src="images/two.png" alt="one" width="800" height="450">
 <h1>Validation folder contains 45 categories </h1>
-<img src="three.png" alt="one" width="800" height="450">
+<img src="images/three.png" alt="one" width="800" height="450">
 
 <h1> Introduction </h1>
 Now in human activity recognition files's folder, You will get 5 files. Firstly we extract 15-15 videos's id, label, start time and end time of 45 category from thousands of videos's data, then we'll check that which video is private or which video is public. So we'll remove the private video's data and keep the public videos's data. And in preprocessing, we download videos of each category one by one then trim the video for 10 sec according to the start time and end time which is given in the training.csv file. Then we convert the videos into frames (images). Then move the images to a particular category folder and do for all the categories and make a training folder and move all category folders into it. And do same for the validation. The ratio of training and validation is 80:20. That means 80% data in the training and 20% data in the validation. After preparing the dataset, now we start the training of our model. After train the model for 70 epochs, you will get 90% accuracy on the training data and 91% accuracy on the validation data. Now it’s time for testing the model. We test a model on video to recognize the human activity. So for testing, we convert the video into frames then classify all the frames, then make a video with the help of all the frames. You will get all the process in the folder of human activity recognition files.
@@ -64,16 +64,16 @@ After doing 3rd and 4rd step, Make a zip file of complete data.
 <h3> Note : Make sure before running the project, see a hierarchy of project. You'll also setup like below image and for use the feedback form in project, You import the human_activity_recognition.sql file in xampp or wampp server. For importing (Go to new -> Create dataset with name (human_activity_recognition) -> click on import -> choose file -> choose human_activity_recognition.sql file -> click on Go-> Done </h3>
 
 <h1> Flask application setup </h1>
-<img src="fours.png" alt="one" width="800" height="450">
+<img src="images/fours.png" alt="one" width="800" height="450">
 
 
 <h1>Overview of Deployement of Human Activity Recognition</h1>
 
 <h1>Page 1 : Home</h1>
-<img src="five.png" alt="one" width="800" height="450">
+<img src="images/five.png" alt="one" width="800" height="450">
 
 <h1>Page 2 : Home (remaining)</h1>
-<img src="six.png" alt="one" width="800" height="450">
+<img src="images/six.png" alt="one" width="800" height="450">
 
 <h1>Page 3 : Feedback</h1>
-<img src="seven.png" alt="one" width="800" height="450">
+<img src="images/seven.png" alt="one" width="800" height="450">
