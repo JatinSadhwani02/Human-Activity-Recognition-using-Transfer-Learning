@@ -129,4 +129,4 @@ After doing 3rd and 4rd step, Make a zip file of complete data.
 <img src="images/seven.png" alt="one" width="800" height="450">
 
 
-<h1> Thank You!!!!!!!!!!!!!!! </h1>
+<h1> Thank You!!!!!!!!!!!!!!!!! </h1>
