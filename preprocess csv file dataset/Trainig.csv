@@ -1,0 +1,650 @@
+,label,youtube_id,time_start,time_end,split
+0,paragliding,-efcBtG1KVo,51,61,train
+1,paragliding,-eiAd94PTWw,35,45,train
+2,paragliding,-enPIivwlsY,1821,1831,train
+3,paragliding,-giSKLNiewY,41,51,train
+4,paragliding,-qCYMzHkc2k,7,17,train
+5,paragliding,0eE_3nvbClk,53,63,train
+6,paragliding,0hrx0HwZxME,2,12,train
+7,paragliding,0vCPUd1WQ4U,36,46,train
+8,paragliding,15LSh_XPils,280,290,train
+9,paragliding,1EXXo5VUaTg,1,11,train
+10,paragliding,1EiHodiRTI8,122,132,train
+11,paragliding,1Ep1RNI0b0U,35,45,train
+12,paragliding,1LN26t34S8c,111,121,train
+13,paragliding,1LS1eWN_TbE,2,12,train
+14,catching or throwing baseball,-JLmaEHB_GI,277,287,train
+15,catching or throwing baseball,-_ZMybcaUOw,374,384,train
+16,catching or throwing baseball,-_o1wewuNhU,127,137,train
+17,catching or throwing baseball,-gswhyjdG-A,0,10,train
+18,catching or throwing baseball,-jIBrJAYBeg,1,11,train
+19,catching or throwing baseball,-sKTm-mjHYo,13,23,train
+20,catching or throwing baseball,0-2GOSXJUe0,0,10,train
+21,catching or throwing baseball,08Rk0r1zVyk,44,54,train
+22,catching or throwing baseball,08sAVLdsWI4,13,23,train
+23,catching or throwing baseball,0AO_OCEztlc,0,10,train
+24,catching or throwing baseball,0AcqN56Sn5A,34,44,train
+25,catching or throwing baseball,0KgQ0m9WI2g,137,147,train
+26,catching or throwing baseball,0MQ-i0IpRi4,6,16,train
+27,catching or throwing baseball,0MXLuil0aOI,4,14,train
+28,catching or throwing baseball,0UdpIwbUXZA,88,98,train
+29,dancing macarena,-7__u70jRAg,40,50,train
+30,dancing macarena,-NE4uod348M,206,216,train
+31,dancing macarena,-k1jF9CkQ2A,163,173,train
+32,dancing macarena,-pZ6R3HDXf0,26,36,train
+33,dancing macarena,-tsNVjN2zSE,154,164,train
+34,dancing macarena,-ttWnf0TQY4,34,44,train
+35,dancing macarena,-wii19IZoUs,4,14,train
+36,dancing macarena,05Ze7_XyfZ8,11,21,train
+37,dancing macarena,0AtUeWLivIk,87,97,train
+38,dancing macarena,0HacRNjlQWY,2,12,train
+39,dancing macarena,0NpscLUEx0Y,17,27,train
+40,dancing macarena,0VeH2RZ747c,11,21,train
+41,dancing macarena,0e6s5Vn3Qlo,74,84,train
+42,dancing macarena,0syP-hw59gg,20,30,train
+43,dancing macarena,0zF-6j-OHoc,37,47,train
+44,laughing,-H1ScxTwBlw,123,133,train
+45,laughing,-XWjsz_0_OE,31,41,train
+46,laughing,-mmu5VJRY1Y,61,71,train
+47,laughing,-oSKT0KuI3I,65,75,train
+48,laughing,-tzRVLORGvY,15,25,train
+49,laughing,-v_iMUMMX6g,50,60,train
+50,laughing,-xd3aIXUJuE,12,22,train
+51,laughing,0Bzn7lSvTmA,27,37,train
+52,laughing,0GsiopyhDgI,21,31,train
+53,laughing,0S20SCkkeFA,20,30,train
+54,laughing,0XKR4zE_cdQ,78,88,train
+55,laughing,0bYUAffLy0c,38,48,train
+56,laughing,14Sph2O9VtQ,14,24,train
+57,eating cake,-7yNDPMfE4Q,6,16,train
+58,eating cake,-RnFoMT98A4,0,10,train
+59,eating cake,-_MFAjItBBE,225,235,train
+60,eating cake,-eV9XdqPzD8,50,60,train
+61,eating cake,0Jpl4du8F8o,15,25,train
+62,eating cake,1G0RbpsS_aE,8,18,train
+63,eating cake,1YYPDC2Ig18,9,19,train
+64,eating cake,1pd9-tf17NE,5,15,train
+65,eating cake,1rLgHXNOoqI,13,23,train
+66,eating cake,27_oTba7mik,15,25,train
+67,eating cake,2DMxUUkDgFI,2,12,train
+68,eating cake,2W0luVW5qek,9,19,train
+69,eating cake,2buPVKtWU5M,9,19,train
+70,eating cake,2eYMcKwGo3A,45,55,train
+71,beatboxing,-QgtDg1rtGk,269,279,train
+72,beatboxing,-Qq10QqHbz0,52,62,train
+73,beatboxing,-QrBJOBkyOc,86,96,train
+74,beatboxing,-grzYb1gX18,3,13,train
+75,beatboxing,0eIdXhqH7Nc,73,83,train
+76,beatboxing,0eQPUWFQk0c,34,44,train
+77,beatboxing,0eROwTAExg0,2,12,train
+78,beatboxing,0eTI0yQuPh8,17,27,train
+79,beatboxing,0eU4Pnr10PU,1,11,train
+80,beatboxing,0eZ0jqO8tiM,90,100,train
+81,beatboxing,140n38HSgGc,0,10,train
+82,beatboxing,14xZ7kRMcdk,37,47,train
+83,beatboxing,15HlO19pWE4,0,10,train
+84,beatboxing,1l7z9xryS5E,124,134,train
+85,feeding birds,--PyMoD3_eg,20,30,train
+86,feeding birds,-0EXMXaj77A,62,72,train
+87,feeding birds,-1VyqbLf1Pg,0,10,train
+88,feeding birds,-5VuqHbo5nE,4,14,train
+89,feeding birds,-7BVb-zigbA,15,25,train
+90,feeding birds,-98DdKiwFi0,5,15,train
+91,feeding birds,-C5aPmkmjA4,74,84,train
+92,feeding birds,-H9lVjKQw2o,16,26,train
+93,feeding birds,-KuhSa1TCGE,49,59,train
+94,feeding birds,-MwPLE_xWz0,2,12,train
+95,feeding birds,-SfAPNOB3aU,21,31,train
+96,feeding birds,-VuAeKfNf18,175,185,train
+97,feeding birds,-WvBTcrfKKI,13,23,train
+98,feeding birds,-jCuZjrFdhQ,11,21,train
+99,feeding birds,-kHCPj7_bqU,74,84,train
+100,opening present,-7QhBZO3t-A,5,15,train
+101,opening present,-7v78zoqTrU,49,59,train
+102,opening present,-Q83wlepp48,14,24,train
+103,opening present,-W1d_vhMasw,4,14,train
+104,opening present,-YGIiAr8SLc,103,113,train
+105,opening present,-cerMH7BTOc,9,19,train
+106,opening present,-coRoBr2_cI,26,36,train
+107,opening present,-kRj53ftJnU,9,19,train
+108,opening present,-kfK-xHGs2A,428,438,train
+109,opening present,-koP2KpBnnQ,24,34,train
+110,opening present,-koPqEecDtY,8,18,train
+111,opening present,-p8HypgZl6o,4,14,train
+112,opening present,-xDXYkOG5B0,55,65,train
+113,opening present,-ygjTvEdGJ0,140,150,train
+114,opening present,01rdh-3CnsE,13,23,train
+115,swinging on something,-xJwj_eklmo,2,12,train
+116,swinging on something,0783Gcxzeyo,60,70,train
+117,swinging on something,07sahmNCSO0,6,16,train
+118,swinging on something,09TAKkHpBDY,12,22,train
+119,swinging on something,0ATPzLSCCTg,72,82,train
+120,swinging on something,0kxWcF0Zt3M,4,14,train
+121,swinging on something,0sFD_PF4YfQ,2,12,train
+122,swinging on something,1dm8RmpNAb4,351,361,train
+123,swinging on something,1ePt_olW2-Q,34,44,train
+124,swinging on something,1mOm56qVqAQ,21,31,train
+125,swinging on something,1uB1I9OF1gM,23,33,train
+126,swinging on something,1wCPjFozIUQ,221,231,train
+127,swinging on something,22CPTflKLnE,0,10,train
+128,making pizza,-Fs-zEnMYgc,354,364,train
+129,making pizza,-GKnuhPmiwM,16,26,train
+130,making pizza,-N8bMIwJ6YU,192,202,train
+131,making pizza,-S-krOZhvQs,88,98,train
+132,making pizza,-hr7cgupd_M,233,243,train
+133,making pizza,-jClNNfcK5c,306,316,train
+134,making pizza,-jswxUe334A,114,124,train
+135,making pizza,-mLImzB3iek,8,18,train
+136,making pizza,-vX6KljYppA,4,14,train
+137,making pizza,-xq2AXf-rKE,30,40,train
+138,making pizza,0AHW5Xlyi3A,182,192,train
+139,making pizza,0Dd-LEk-2iE,107,117,train
+140,making pizza,0DssRvFYL4E,39,49,train
+141,making pizza,0EvFP-wbYVM,9,19,train
+142,making pizza,0JTvkJnwdFE,10,20,train
+143,kitesurfing,-4ano7snqlI,36,46,train
+144,kitesurfing,-7mSbonr-9k,51,61,train
+145,kitesurfing,-FjBFRT36pU,100,110,train
+146,kitesurfing,-RugFi1PGJI,327,337,train
+147,kitesurfing,-fTTbtnm3hc,147,157,train
+148,kitesurfing,-g3s97YnVs4,23,33,train
+149,kitesurfing,-g4pOHKm1B0,16,26,train
+150,kitesurfing,-pvHNmFR4fM,67,77,train
+151,kitesurfing,-qAw50ILrII,5,15,train
+152,kitesurfing,04gqPdWhR2A,68,78,train
+153,kitesurfing,0GcQVXb1Ja8,1,11,train
+154,kitesurfing,1e2wCboL5Qk,1,11,train
+155,kitesurfing,1l-pRTJebXU,63,73,train
+156,kitesurfing,1o5W0kY95K4,331,341,train
+157,kitesurfing,1wgICYAd8z0,14,24,train
+158,ice climbing,-2jPR5x7kLw,135,145,train
+159,ice climbing,-3S3VX06QHg,32,42,train
+160,ice climbing,-3W9JmAcHxI,4,14,train
+161,ice climbing,-3pWBL1TJZg,0,10,train
+162,ice climbing,-3wWE2UjjWM,163,173,train
+163,ice climbing,-6uc4CaBkoQ,19,29,train
+164,ice climbing,-AetVIjLsmA,20,30,train
+165,ice climbing,-Tc_jXvqZ4M,158,168,train
+166,ice climbing,-cvCs8pZzL0,465,475,train
+167,ice climbing,-pffMaC5Zj8,183,193,train
+168,ice climbing,-vBDJ8anp5M,75,85,train
+169,ice climbing,-wUXnlNKdrI,28,38,train
+170,ice climbing,01w4VojhEdw,72,82,train
+171,ice climbing,06-qiWK9ZuQ,295,305,train
+172,ice climbing,0G4ivBZu6Dg,64,74,train
+173,slacklining,-DVSkbP_NPw,3,13,train
+174,slacklining,-R2uB75NL2M,0,10,train
+175,slacklining,-lvctdCLT7o,23,33,train
+176,slacklining,-sHz1Wgt6fM,3,13,train
+177,slacklining,04c4Hbv_CV8,79,89,train
+178,slacklining,052wTA4L8tc,89,99,train
+179,slacklining,06EsQkYyYoY,12,22,train
+180,slacklining,0Gahp_qqm2Y,1,11,train
+181,slacklining,0N2Gr96deE0,7,17,train
+182,slacklining,0UX-kwgZh8c,26,36,train
+183,slacklining,0pSSwNB_cjk,50,60,train
+184,slacklining,1EnO4VgReN4,6,16,train
+185,slacklining,1LWwVogTUUo,161,171,train
+186,slacklining,1pE_kHpqIds,21,31,train
+187,slacklining,1qFBfyDwOhQ,41,51,train
+188,chopping wood,-JmAezdkneo,200,210,train
+189,chopping wood,-L-WOazh1xI,2,12,train
+190,chopping wood,-LmFPtnbal0,8,18,train
+191,chopping wood,-UlDO6K_3qU,19,29,train
+192,chopping wood,-Wx087CwsdQ,11,21,train
+193,chopping wood,-X-BY_g8vCY,5,15,train
+194,chopping wood,-jSa98fL8vU,3,13,train
+195,chopping wood,-nIkLweYb7w,4,14,train
+196,chopping wood,-nwWj-o-7Bc,218,228,train
+197,chopping wood,-tGmOoY7SJI,3,13,train
+198,chopping wood,0FKPqZVJfIY,45,55,train
+199,chopping wood,0KUe_fP8oa0,29,39,train
+200,chopping wood,0QD0fXAMdqQ,48,58,train
+201,chopping wood,0TdX2-rZV4k,35,45,train
+202,chopping wood,0Uz544_Ex8w,29,39,train
+203,cartwheeling,-2IvRufK7uc,19,29,train
+204,cartwheeling,-cHcdrL3upI,1,11,train
+205,cartwheeling,-kNuIQKh_Aw,28,38,train
+206,cartwheeling,-lXtc6lpU8M,4,14,train
+207,cartwheeling,-wX6O9fkmm0,1,11,train
+208,cartwheeling,02KL2MkN2X8,0,10,train
+209,cartwheeling,03XaKfcbTlA,1,11,train
+210,cartwheeling,08KSXZ6uTzU,2,12,train
+211,cartwheeling,0ATL5vd5Oks,0,10,train
+212,cartwheeling,0DH97RkBp3M,298,308,train
+213,cartwheeling,0PStjrGD_-A,1,11,train
+214,cartwheeling,0PtPkJPCD40,0,10,train
+215,cartwheeling,0m1klw4C9XA,5,15,train
+216,cartwheeling,14RZeKXUlAs,0,10,train
+217,cartwheeling,16xyTOyqzS4,1,11,train
+218,archery,-1q7jA3DXQM,5,15,train
+219,archery,-5NN5hdIwTc,36,46,train
+220,archery,-GcVBfs4zw8,7,17,train
+221,archery,-Hn5WqDh9hI,104,114,train
+222,archery,-Njxj40a0OQ,0,10,train
+223,archery,-OVw1usq968,213,223,train
+224,archery,-R5E3-cmrq8,0,10,train
+225,archery,-RZ9mL8wnJc,25,35,train
+226,archery,-SqXDd4XIJM,32,42,train
+227,archery,-U1ym96B9l4,10,20,train
+228,archery,-WrKlvp_x_0,75,85,train
+229,archery,-X2LRaGih1s,3,13,train
+230,archery,-bWbDpWY0ec,71,81,train
+231,archery,-kZd1pPQnXQ,35,45,train
+232,archery,-lPLLbPsMDU,16,26,train
+233,welding,-4cQyIDxeQ4,190,200,train
+234,welding,-54PCruVW7I,447,457,train
+235,welding,-IEPj0qrBC0,55,65,train
+236,welding,-KS4TcXps5o,391,401,train
+237,welding,-a3UohTW8Rw,44,54,train
+238,welding,-eHgNrBLlHE,3,13,train
+239,welding,-fPCLShF8q8,22,32,train
+240,welding,-genJfLPizE,95,105,train
+241,welding,-ijkA4UHz_U,3,13,train
+242,welding,-m7uz_-15bc,3,13,train
+243,welding,-qGtvI0XRyM,113,123,train
+244,welding,0Nhl-MOqbAg,145,155,train
+245,welding,0_uCAYQJCag,70,80,train
+246,welding,0apW4e7WjDw,177,187,train
+247,roller skating,-4pz4u3SAME,99,109,train
+248,roller skating,-E7dtcZkFzc,253,263,train
+249,roller skating,-Qa-Pl1PO-8,93,103,train
+250,roller skating,-TpY2n3W2vo,249,259,train
+251,roller skating,-euQl2VN8tE,87,97,train
+252,roller skating,-fTB1T856nM,10,20,train
+253,roller skating,-ipVdP7v5Ws,113,123,train
+254,roller skating,-pR9WlZfzqo,141,151,train
+255,roller skating,04SngfVh3AI,97,107,train
+256,roller skating,090pTj6b7wI,28,38,train
+257,roller skating,0BF3GUiXZyk,626,636,train
+258,roller skating,0DRwTNPTrVo,79,89,train
+259,roller skating,0DS2_i1FId4,191,201,train
+260,roller skating,0NF6r2zCZvs,358,368,train
+261,playing flute,0Iy18mslB4A,170,180,train
+262,playing flute,0OxOqcRuWJY,70,80,train
+263,playing flute,0Se70qqXhPE,82,92,train
+264,playing flute,0lUGBiyB1KI,59,69,train
+265,playing flute,0nuiA-eLgdc,132,142,train
+266,playing flute,1Su2CfxfjNg,63,73,train
+267,playing flute,1dlwp4q6dPw,13,23,train
+268,playing flute,1hJnwE11XZ0,0,10,train
+269,playing flute,1k3y_lf2ZP8,43,53,train
+270,playing flute,1lhub4HIJkw,146,156,train
+271,playing flute,29TH6RoqAFk,24,34,train
+272,playing flute,2JqwPwHbjE8,26,36,train
+273,playing flute,2ZsfRkIqCRA,50,60,train
+274,playing flute,2jiOwaCrZto,235,245,train
+275,deadlifting,-Qc3fWKTszo,10,20,train
+276,deadlifting,-QcSkIaJC-s,127,137,train
+277,deadlifting,-Qcge8OnRgQ,26,36,train
+278,deadlifting,-QeRVKnI21U,20,30,train
+279,deadlifting,-QfjVxmpwIs,4,14,train
+280,deadlifting,-QmoVoo4E78,41,51,train
+281,deadlifting,-Qr58HymVsE,17,27,train
+282,deadlifting,-gfiq14hrWs,5,15,train
+283,deadlifting,-gk9vSxgShA,6,16,train
+284,deadlifting,0eZurfXm8j4,12,22,train
+285,deadlifting,144WxQyE9Ow,4,14,train
+286,deadlifting,148gWx_kbzg,2,12,train
+287,deadlifting,15GYdXuq_SQ,4,14,train
+288,deadlifting,1bBSBLB40FU,2,12,train
+289,bouncing on trampoline,-I_-vcckw2Q,4,14,train
+290,bouncing on trampoline,-KJ-21e-nzs,2,12,train
+291,bouncing on trampoline,-Rky7GPTdk4,1,11,train
+292,bouncing on trampoline,-VOVRnLZVak,141,151,train
+293,bouncing on trampoline,-nOh1X6WRfM,36,46,train
+294,bouncing on trampoline,-w8PlhC-GyA,11,21,train
+295,bouncing on trampoline,09R7dZ9eg0g,0,10,train
+296,bouncing on trampoline,0Yd2aGc496E,6,16,train
+297,bouncing on trampoline,0_BBTQTktn0,34,44,train
+298,bouncing on trampoline,0c1fjT6Jc54,0,10,train
+299,bouncing on trampoline,0hpca_nFLWI,29,39,train
+300,bouncing on trampoline,0vAYwJDvH60,13,23,train
+301,bouncing on trampoline,0zCzCCBXyRs,70,80,train
+302,bouncing on trampoline,14E5qEtAJ0o,135,145,train
+303,bouncing on trampoline,1I9HsCKi-j0,4,14,train
+304,shoveling snow,-1IlTIWPNs4,27,37,train
+305,shoveling snow,-AexE0IVHwE,40,50,train
+306,shoveling snow,-K3W2m46ezw,1,11,train
+307,shoveling snow,-N8u3wSeihI,3,13,train
+308,shoveling snow,-OXQ0KE8cGg,19,29,train
+309,shoveling snow,-RJjabrlrjU,148,158,train
+310,shoveling snow,-YCNtd_5VTg,57,67,train
+311,shoveling snow,-aYH7Dw-Edk,411,421,train
+312,shoveling snow,-c3rYbtNNqw,81,91,train
+313,shoveling snow,-lJzDCqh_CI,12,22,train
+314,shoveling snow,-mD-yKhF5xU,195,205,train
+315,shoveling snow,-osau-6p2AU,27,37,train
+316,shoveling snow,-ppY7E8G3C0,207,217,train
+317,shoveling snow,-q_FT4Jt23A,112,122,train
+318,shoveling snow,-uWc-xNt-1I,4,14,train
+319,playing keyboard,-Q8pn_086zo,202,212,train
+320,playing keyboard,-Sw56gTpqS0,14,24,train
+321,playing keyboard,-WxSY9sL3qo,53,63,train
+322,playing keyboard,-rVZGOHdeso,64,74,train
+323,playing keyboard,0MbpR9XFRUI,205,215,train
+324,playing keyboard,0NN2c3H81tI,2,12,train
+325,playing keyboard,0P09Z7TU8Co,1,11,train
+326,playing keyboard,0WaO8qB40eQ,35,45,train
+327,playing keyboard,0kRUoB7mtBY,33,43,train
+328,playing keyboard,1JhKyd9mYLg,1,11,train
+329,playing keyboard,1K1WmHkf-B8,6,16,train
+330,playing keyboard,1_qdZv5eekw,0,10,train
+331,playing keyboard,1uLIPzNnFck,198,208,train
+332,celebrating,-3TTZ9RtlwM,9,19,train
+333,celebrating,-5wxo2nzMvM,91,101,train
+334,celebrating,-Bt5UPvDp8g,7,17,train
+335,celebrating,-h0bcBISjO0,113,123,train
+336,celebrating,-ieVw_C-v-E,210,220,train
+337,celebrating,00I9M2Iy-IA,0,10,train
+338,celebrating,0Ch-juHKRx0,65,75,train
+339,celebrating,0GsGiBHqm58,253,263,train
+340,celebrating,0NIzLI3uk-A,142,152,train
+341,celebrating,0OVjM9WYX7U,3562,3572,train
+342,celebrating,0QYChDaH-Cs,293,303,train
+343,celebrating,0cKFXods2-s,42,52,train
+344,celebrating,0mw6X8feZe8,294,304,train
+345,celebrating,0vf_243hTB4,89,99,train
+346,celebrating,156VYYahmoo,0,10,train
+347,high jump,-B228_dxIVc,1,11,train
+348,high jump,-GH6c7i8sKg,0,10,train
+349,high jump,-I8dtKUUSQY,1,11,train
+350,high jump,-ZEThexrAe0,2,12,train
+351,high jump,-jT3HvUWlGs,8,18,train
+352,high jump,-meoRkRbhRc,32,42,train
+353,high jump,-v6Dj_-drts,3,13,train
+354,high jump,06-1cMAy4Tg,3,13,train
+355,high jump,0Ek-yT9nSCE,71,81,train
+356,high jump,0IcWFMJUmAQ,26,36,train
+357,high jump,0Qh6a92XQFM,2,12,train
+358,high jump,0Rze2riwkj4,0,10,train
+359,high jump,0VjTDISCbUw,1,11,train
+360,high jump,0cqr9IrnoTM,0,10,train
+361,high jump,0f9jcSBAfkk,4,14,train
+362,capoeira,-5xDkBUtWyk,102,112,train
+363,capoeira,-CineIdVOV0,461,471,train
+364,capoeira,-HukMpQbvJ0,0,10,train
+365,capoeira,-HvEH5HeTBc,11,21,train
+366,capoeira,-YRRqM8F-AY,0,10,train
+367,capoeira,-cHcQm0zNDc,58,68,train
+368,capoeira,-idxvdgyOPo,27,37,train
+369,capoeira,-sDM842gLsw,284,294,train
+370,capoeira,-xccz8S0qTE,324,334,train
+371,capoeira,-yaOMCekFug,107,117,train
+372,capoeira,02haHiGAEWA,164,174,train
+373,capoeira,03VkL6u0mw4,7,17,train
+374,capoeira,078GCsqoETo,13,23,train
+375,finger snapping,-FX7AD8Z2lc,17,27,train
+376,finger snapping,-VkiZwCpqfU,4,14,train
+377,finger snapping,-ZaNyzHkCGo,15,25,train
+378,finger snapping,-sy0b6-NpoQ,4,14,train
+379,finger snapping,-xJUzkd1-BI,9,19,train
+380,finger snapping,08c-k3E-Qq4,2,12,train
+381,finger snapping,0Ebn3ydH5w4,25,35,train
+382,finger snapping,0Pnkj4bz1Yo,2,12,train
+383,finger snapping,0QCsffcpSJA,1,11,train
+384,finger snapping,0ttCqhLN6jE,33,43,train
+385,finger snapping,0wR6cO3yRPs,217,227,train
+386,finger snapping,0wwMf5sW_Sk,2,12,train
+387,finger snapping,0ykYzQTUwOQ,1,11,train
+388,finger snapping,1-p9m8VcZDo,8,18,train
+389,side kick,-O04vwUG4xU,0,10,train
+390,side kick,-emea7tDK0U,20,30,train
+391,side kick,-hJFFGRjFfU,1,11,train
+392,side kick,-o-BT5WHvBg,2,12,train
+393,side kick,-uAkZjg6DWY,172,182,train
+394,side kick,-zbCCfiVGYo,11,21,train
+395,side kick,08UwhpFcqMc,96,106,train
+396,side kick,0F1PLFSFzc0,1,11,train
+397,side kick,0P6A7BFk7TQ,1,11,train
+398,side kick,0T73AvNuKc4,0,10,train
+399,side kick,0Yerdf3vNbA,0,10,train
+400,side kick,0jD38s-_XXA,182,192,train
+401,side kick,1AOZNytDQLI,6,16,train
+402,side kick,1AznM0BfGb0,3,13,train
+403,brushing hair,-KllW3tO0xw,0,10,train
+404,brushing hair,-M-izDRnlu0,62,72,train
+405,brushing hair,-OF80U4-L2s,410,420,train
+406,brushing hair,-WVr7-b14fw,444,454,train
+407,brushing hair,-Wq2rT-020w,54,64,train
+408,brushing hair,-fTDzbATdVQ,0,10,train
+409,brushing hair,-qA1hPWLxyA,1,11,train
+410,brushing hair,-sMcjIsMmhA,16,26,train
+411,brushing hair,02zBQozJWRQ,1,11,train
+412,brushing hair,0Cwx6YMeV8g,42,52,train
+413,brushing hair,0DM6qOaWkM8,114,124,train
+414,brushing hair,0IP7crO-yF4,148,158,train
+415,cooking sausages,-9CqeuXdCvM,80,90,train
+416,cooking sausages,-cXaxE9DLTs,298,308,train
+417,cooking sausages,-p46GSgNajs,328,338,train
+418,cooking sausages,-rBz9EEx23M,50,60,train
+419,cooking sausages,0HXY5yOs4vM,122,132,train
+420,cooking sausages,0elZiVrHcak,40,50,train
+421,cooking sausages,0wb1qpN5Pnw,103,113,train
+422,cooking sausages,2FEwrS4jMBo,265,275,train
+423,cooking sausages,2TUJ-ULecDE,82,92,train
+424,cooking sausages,2gxYJIneKd0,35,45,train
+425,cooking sausages,35It-NgBD98,178,188,train
+426,cooking sausages,3Us0ldleUfY,214,224,train
+427,cooking sausages,3gMgNoCntEk,438,448,train
+428,cooking sausages,3nHc4cS9xRc,9,19,train
+429,cooking sausages,3r3570nr97A,76,86,train
+430,throwing ball,-NTTnYJ4J_k,45,55,train
+431,throwing ball,-Smcm2tCgIc,180,190,train
+432,throwing ball,-XH2-DHbGtA,14,24,train
+433,throwing ball,07j123viPv8,0,10,train
+434,throwing ball,0B1P40w2AFk,34,44,train
+435,throwing ball,0E_Kr0--odg,47,57,train
+436,throwing ball,0Zq4aCYOiZk,46,56,train
+437,throwing ball,0frixOdA0JI,12,22,train
+438,throwing ball,0k1bVIZgC34,4,14,train
+439,throwing ball,0myKWIYhD7Y,0,10,train
+440,throwing ball,15eRZCda9VI,8,18,train
+441,throwing ball,15yirlFazTY,70,80,train
+442,throwing ball,1KO4KH5i1rk,13,23,train
+443,throwing ball,1fciSa12YL8,4,14,train
+444,throwing ball,1qkN_WlaTCc,2,12,train
+445,hammer throw,-6uNJNQKvO8,2,12,train
+446,hammer throw,-7fdpW4lwUs,104,114,train
+447,hammer throw,-ZrTWoa4Duk,1,11,train
+448,hammer throw,-aa0WRWj89M,1,11,train
+449,hammer throw,-fg8BZ3Wi6c,4,14,train
+450,hammer throw,-lFeKfEWnfQ,3,13,train
+451,hammer throw,-obP7eeuMV4,1,11,train
+452,hammer throw,-qjVU8jMtWI,4,14,train
+453,hammer throw,-xzK6cQoP4o,1,11,train
+454,hammer throw,0RlnBRfvCko,14,24,train
+455,hammer throw,0aSk9H4RmZU,21,31,train
+456,hammer throw,0faTDBLIspg,0,10,train
+457,hammer throw,0gwIJfTMWCg,2,12,train
+458,hammer throw,0oZXiN-rpz8,4,14,train
+459,hammer throw,0yTJW8E8Hpo,5,15,train
+460,dribbling basketball,--4-0ihtnBU,58,68,train
+461,dribbling basketball,-2UnEKzUgSU,5,15,train
+462,dribbling basketball,-8_AxtRflmg,0,10,train
+463,dribbling basketball,-EnWmIji1xc,120,130,train
+464,dribbling basketball,-FegJMpQ2DE,63,73,train
+465,dribbling basketball,-Kp1ZTCMSsQ,211,221,train
+466,dribbling basketball,-_KiwxNptjs,159,169,train
+467,dribbling basketball,-a6rPASijwQ,11,21,train
+468,dribbling basketball,-acnXbfOk_M,123,133,train
+469,dribbling basketball,00Wq2ULInyY,2,12,train
+470,dribbling basketball,0TBAM9jwSrY,18,28,train
+471,dribbling basketball,0aH-yGW_NyM,155,165,train
+472,dribbling basketball,0c2smafL5nk,0,10,train
+473,dribbling basketball,0g2Mc_WNXCM,142,152,train
+474,stretching leg,-D0Ehift5UA,44,54,train
+475,stretching leg,-OQQW1UOiG4,1,11,train
+476,stretching leg,-f2gvaArR4U,3,13,train
+477,stretching leg,-fAxrhJhFy4,1,11,train
+478,stretching leg,-lAMMQFfoso,6,16,train
+479,stretching leg,-sLWfi6UbK8,5,15,train
+480,stretching leg,01K2CkCBJRU,97,107,train
+481,stretching leg,02DqLWNxQ0M,1,11,train
+482,stretching leg,08XmO2-Xy94,13,23,train
+483,stretching leg,0Lct0A-F0hA,58,68,train
+484,stretching leg,0R9y3v1G_DY,697,707,train
+485,stretching leg,0RnftJozJAU,275,285,train
+486,stretching leg,0SQd7l_YEnc,11,21,train
+487,stretching leg,0UhmB8yn7wU,5,15,train
+488,breakdancing,-A6-ubbxy3w,54,64,train
+489,breakdancing,-IS9CSDhqfA,69,79,train
+490,breakdancing,-vgNRqC56Lk,54,64,train
+491,breakdancing,-zznOFzbdKQ,57,67,train
+492,breakdancing,00Q1yLqGCY0,54,64,train
+493,breakdancing,03LexUfuweY,18,28,train
+494,breakdancing,07NVtDLt-Kc,6,16,train
+495,breakdancing,0A7bjpkmc1E,185,195,train
+496,breakdancing,0EI804x_Qe0,201,211,train
+497,breakdancing,0Ek0SD0LLC8,0,10,train
+498,breakdancing,0EkwOZ7nesY,27,37,train
+499,breakdancing,0H6ylMAcLWE,193,203,train
+500,breakdancing,0H7EwvA4kjg,2,12,train
+501,breakdancing,0NOVAxIyAFc,32,42,train
+502,snowmobiling,-51p8XCHUvU,7,17,train
+503,snowmobiling,-5vutCzg7vA,16,26,train
+504,snowmobiling,-8QPIN4bKDA,575,585,train
+505,snowmobiling,-yxWsm4bQ4E,39,49,train
+506,snowmobiling,0N62azX8OSg,68,78,train
+507,snowmobiling,0eLHf6O-N_c,38,48,train
+508,snowmobiling,0hxF743aOl8,2,12,train
+509,snowmobiling,0u5dBZNZrCM,79,89,train
+510,snowmobiling,1K5OXfQF4NA,93,103,train
+511,snowmobiling,1Kv1zP0hzmo,162,172,train
+512,snowmobiling,1OJUbGMGQrc,192,202,train
+513,snowmobiling,1bDmZfhhTNo,91,101,train
+514,snowmobiling,1l1INIUPf3I,42,52,train
+515,snowmobiling,1l84CF_6o5w,8,18,train
+516,canoeing or kayaking,-0JU38ZQOlY,0,10,train
+517,canoeing or kayaking,-1GUNrYsD4Y,18,28,train
+518,canoeing or kayaking,-6VoGglIU3o,20,30,train
+519,canoeing or kayaking,-GgjAKhuuVk,1,11,train
+520,canoeing or kayaking,-KFKxzZaojw,8,18,train
+521,canoeing or kayaking,-TJxFWZJBH4,22,32,train
+522,canoeing or kayaking,-UaTbwzki4o,50,60,train
+523,canoeing or kayaking,-bIZoarubJ0,60,70,train
+524,canoeing or kayaking,-bfAUrAr8ZA,142,152,train
+525,canoeing or kayaking,-cGpCRJ4u2k,34,44,train
+526,canoeing or kayaking,-jOJedjjk74,15,25,train
+527,canoeing or kayaking,-kRblb6nuIk,70,80,train
+528,canoeing or kayaking,-keFyiJ1cIg,73,83,train
+529,canoeing or kayaking,-lTupVOk3AY,26,36,train
+530,canoeing or kayaking,-meP1SaVafQ,18,28,train
+531,headbanging,-4A5Vwel4s8,0,10,train
+532,headbanging,-6OUP7kcEaU,4,14,train
+533,headbanging,-6hrJT07lKk,64,74,train
+534,headbanging,-CboZUYHino,10,20,train
+535,headbanging,-RSJUEuvvEU,0,10,train
+536,headbanging,-WN_OxBjtzw,679,689,train
+537,headbanging,-d_ljddPRjw,96,106,train
+538,headbanging,-hqDz946aOk,95,105,train
+539,headbanging,-nt9S2JF5Vk,4,14,train
+540,headbanging,-x78DitkbpU,23,33,train
+541,headbanging,-yp7-fwAv74,184,194,train
+542,headbanging,0AKY-yigJG0,52,62,train
+543,headbanging,0BY4X8x3Kms,0,10,train
+544,headbanging,0CyBCOmHQzA,4,14,train
+545,exercising with an exercise ball,0FF_VU9pWJc,31,41,train
+546,exercising with an exercise ball,0GC584HX6XU,42,52,train
+547,exercising with an exercise ball,0S7_R0Ft6vY,40,50,train
+548,exercising with an exercise ball,0qLiHIJgUZ0,39,49,train
+549,exercising with an exercise ball,1WGwiNyTt48,29,39,train
+550,exercising with an exercise ball,1hHkgTnf9BY,242,252,train
+551,exercising with an exercise ball,1ibqSd-0zMY,14,24,train
+552,exercising with an exercise ball,2B58pRj7IRU,4,14,train
+553,exercising with an exercise ball,3R81zuUD_L0,1,11,train
+554,exercising with an exercise ball,3TwjzUN8eYg,55,65,train
+555,exercising with an exercise ball,3aD6E0X-PmE,3,13,train
+556,exercising with an exercise ball,3pV3-uACwo4,0,10,train
+557,exercising with an exercise ball,3xte815Hisc,4,14,train
+558,exercising with an exercise ball,4BnSWMv13jE,108,118,train
+559,exercising with an exercise ball,4_cHMVC0nw0,1,11,train
+560,blowing out candles,-5WZ2MfBhz8,11,21,train
+561,blowing out candles,-6xaLevd_z4,38,48,train
+562,blowing out candles,-8M6XG8uP_o,21,31,train
+563,blowing out candles,-9GOvo_CfRw,28,38,train
+564,blowing out candles,-KkHyoafXmw,73,83,train
+565,blowing out candles,-TMNOCKit8c,1,11,train
+566,blowing out candles,-ZElkWIcWXM,30,40,train
+567,blowing out candles,-k0zZOzKwus,20,30,train
+568,blowing out candles,-qZfxFH0r4E,50,60,train
+569,blowing out candles,0-Gb1q-g_to,46,56,train
+570,blowing out candles,0AqjFxIXFSA,40,50,train
+571,blowing out candles,0Dbqyd-mHVk,4,14,train
+572,blowing out candles,0DsJ7Saj2eQ,11,21,train
+573,blowing out candles,0KNJtZdmFPI,9,19,train
+574,blowing out candles,0MG-iN-w5UY,0,10,train
+575,watering plants,-8E267pU6ZY,97,107,train
+576,watering plants,-QjAyuhLDZg,0,10,train
+577,watering plants,-SKEHtP4qUw,0,10,train
+578,watering plants,-cs5CLXF4LU,4,14,train
+579,watering plants,-k4YH8G0_eI,119,129,train
+580,watering plants,-t9gfWhZLEo,674,684,train
+581,watering plants,049Q-4zbw88,24,34,train
+582,watering plants,05Ru2KOKSy8,3,13,train
+583,watering plants,0D3f4gs79ig,0,10,train
+584,watering plants,0DZE5Xg22gY,21,31,train
+585,watering plants,0J03vovXv4s,47,57,train
+586,watering plants,0S6xC55qlaw,19,29,train
+587,watering plants,1O4cGpXF88c,44,54,train
+588,watering plants,1PulSbc8aC4,39,49,train
+589,watering plants,1WdyWZH42NM,37,47,train
+590,cheerleading,-4kKgG116hE,279,289,train
+591,cheerleading,-5EWpX5lfRM,18,28,train
+592,cheerleading,-5Ea_Vj8ohs,68,78,train
+593,cheerleading,-8MxLnIeAG0,409,419,train
+594,cheerleading,-FOzZ9GIbrA,24,34,train
+595,cheerleading,-Gq-e8AkCPo,6,16,train
+596,cheerleading,-KQPRvt8A_0,146,156,train
+597,cheerleading,-MP3lJPKpcI,85,95,train
+598,cheerleading,-MSdmmApn2w,22,32,train
+599,cheerleading,-NRp6QMkfdM,10,20,train
+600,cheerleading,-NUF_s3hLhE,4,14,train
+601,cheerleading,-PXHUmynekY,191,201,train
+602,cheerleading,-ch-KT3j_mY,0,10,train
+603,cheerleading,-gNiXF-fWRE,50,60,train
+604,cheerleading,-hQo6ONdpcQ,19,29,train
+605,milking cow,-2LiVPczCr8,138,148,train
+606,milking cow,-3N2gRXnmsE,101,111,train
+607,milking cow,-5d8Q_ca7bM,20,30,train
+608,milking cow,-6u7lnRGS58,184,194,train
+609,milking cow,-CbkApe0H-g,12,22,train
+610,milking cow,-K74JEPrJJQ,43,53,train
+611,milking cow,-MYJtLnxUqY,31,41,train
+612,milking cow,-Olw5bPU_RE,493,503,train
+613,milking cow,-gJmR_kGWXE,0,10,train
+614,milking cow,-gQJhQsWFXA,38,48,train
+615,milking cow,-jRvvpzCh7w,0,10,train
+616,milking cow,-ptMoBcBe7Y,28,38,train
+617,milking cow,-tTErlr0HuI,113,123,train
+618,milking cow,-tjARoxdBJw,4,14,train
+619,milking cow,-xxpyScg_vY,0,10,train
+620,snowboarding,-0SoxHZp0SM,91,101,train
+621,snowboarding,-2Km-NboGO4,2,12,train
+622,snowboarding,-6CevYEU9Fw,13,23,train
+623,snowboarding,-8hKdGdvZdg,80,90,train
+624,snowboarding,-9-4fix3fxQ,121,131,train
+625,snowboarding,-AZAa3cH6V0,142,152,train
+626,snowboarding,-ApmVDKi5BU,87,97,train
+627,snowboarding,-CNY_UACaZk,36,46,train
+628,snowboarding,-F0Hh-YYbN4,191,201,train
+629,snowboarding,-MQMUIUkw0I,157,167,train
+630,snowboarding,-NCS1mBFr4w,285,295,train
+631,snowboarding,-QACQuhMlt4,24,34,train
+632,snowboarding,-QAojXhw5UE,0,10,train
+633,snowboarding,-R9Hn7uKzuU,199,209,train
+634,snowboarding,-Vro-aRtfuw,140,150,train
+635,driving car,-KSm0RzIF-Y,30,40,train
+636,driving car,-MVb_xJglWU,8,18,train
+637,driving car,-O3D5G8xrok,222,232,train
+638,driving car,-RdREpFcycY,50,60,train
+639,driving car,-Y7su5UxZkc,2,12,train
+640,driving car,-qzjWXpmWoI,3,13,train
+641,driving car,-vL0AJPil6E,47,57,train
+642,driving car,00P8qGvMgX4,87,97,train
+643,driving car,08us014ZLkU,105,115,train
+644,driving car,09hrf4tspQM,7,17,train
+645,driving car,0CVnwFc58Rg,97,107,train
+646,driving car,0OcMQ2Z49gw,45,55,train
+647,driving car,0VKc8TbBloE,24,34,train
+648,driving car,0WCttfSBVS8,117,127,train
