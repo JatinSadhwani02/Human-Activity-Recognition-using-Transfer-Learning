@@ -77,7 +77,7 @@ Name of Activity
 <img src="images/three.png" alt="one" width="800" height="450">
 
 <h1> Introduction </h1>
-Now in human activity recognition files's folder, You will get 5 files. Firstly we extract 15-15 videos's id, label, start time and end time of 45 category from thousands of videos's data, then we'll check that which video is private or which video is public. So we'll remove the private video's data and keep the public videos's data. And in preprocessing, we download videos of each category one by one then trim the video for 10 sec according to the start time and end time which is given in the training.csv file. Then we convert the videos into frames (images). Then move the images to a particular category folder and do for all the categories and make a training folder and move all category folders into it. And do same for the validation. The ratio of training and validation is 80:20. That means 80% data in the training and 20% data in the validation. After preparing the dataset, now we start the training of our model. After train the model for 70 epochs, you will get 90% accuracy on the training data and 91% accuracy on the validation data. Now it’s time for testing the model. We test a model on video to recognize the human activity. So for testing, we convert the video into frames then classify all the frames, then make a video with the help of all the frames. You will get all the process in the folder of human activity recognition files.
+Now in human activity recognition files's folder, You will get 5 files. Firstly we extract 15-15 videos's id, label, start time and end time of 45 category from thousands of videos's data, then we'll check that which video is private or which video is public. So we'll remove the private video's data and keep the public videos's data. And in preprocessing, we download videos of each category one by one then trim the video for 10 sec according to the start time and end time which is given in the training.csv file. Then we convert the videos into frames (images). Then move the images to a particular category folder and do for all the categories and make a training folder and move all category folders into it. And do same for the validation. The ratio of training and validation is 80:20. That means 80% data in the training and 20% data in the validation. After preparing the dataset, now we start the training of our model. After train the model for 30 epochs, you will get 95% accuracy on the training data and 96% accuracy on the validation data. Now it’s time for testing the model. We test a model on video to recognize the human activity. So for testing, we convert the video into frames then classify all the frames, then make a video with the help of all the frames. You will get all the process in the folder of human activity recognition files.
 
 <h4>The steps for train the model and sequence for use the files are:-</h4>
 
@@ -115,7 +115,7 @@ After doing 3rd and 4rd step, Make a zip file of complete data.
 5. preprocess csv file dataset : This folder contain preprocess csv files.
 6. Data: Data is a extra folder which is created at the running time, Data folder stores the video’s frames temporary.
 7. Human_Activity_Recognition.py file is our python file.
-8. Human_Activity_Recognition.h5 is our pre trained model to classify human activity in video.
+8. human_activity_recognition_95_95.h5 is our pre trained model to classify human activity in video.
 9. human_activity_recognition.sql is a database for feedback. just import in the xampp or wampp server.
 
 
