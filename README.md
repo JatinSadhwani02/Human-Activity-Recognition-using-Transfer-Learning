@@ -10,11 +10,8 @@
 <h2> 2. Download pretrained model (VGG16) : https://drive.google.com/file/d/11tqGeByuntORoOJe7KLtouUD-kGpLzLN/view?usp=sharing</h2>
 
 <h4>
- <pre>
- 1. Download pretrained model (ImageNet) : This is a trained model. It is giving 95% accuracy on the training data and 96% accuracy on the validation data. I'll Recommend you to use this model.
- 
- 2. Download pretrained model (VGG16) : This is a trained model. It is giving 90% accuracy on the training data and 91% accuracy on the validation data.
-</pre>
+1. Download pretrained model (ImageNet) : This is a trained model. It is giving 95% accuracy on the training data and 96% accuracy on the validation data. I'll Recommend you to use this model. <br>
+2. Download pretrained model (VGG16) : This is a trained model. It is giving 90% accuracy on the training data and 91% accuracy on the validation data.
 </h4>
 
 
