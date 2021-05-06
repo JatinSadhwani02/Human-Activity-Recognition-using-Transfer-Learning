@@ -111,7 +111,7 @@ def Preprocess_video(videopath,save):
 
 
 
-            img=image.load_img(name,target_size=(100,100))
+            img=image.load_img(name,target_size=(224,224))
             x=image.img_to_array(img)
             x=x/255
             x=np.expand_dims(x,axis=0)
@@ -122,7 +122,7 @@ def Preprocess_video(videopath,save):
 
             img = cv2.imread(name)
             img = cv2.putText(img, lab, (18, 70), cv2.FONT_HERSHEY_SIMPLEX, 
-                       2.5, (255,0,0), 3, cv2.LINE_AA)
+                       2, (255,0,0), 3, cv2.LINE_AA)
 
             cv2.imwrite(name, img)
 
