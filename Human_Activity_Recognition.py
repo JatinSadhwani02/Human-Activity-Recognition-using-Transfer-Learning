@@ -14,7 +14,7 @@ import pymysql
 
 
 app = Flask(__name__)
-model_path = 'human_activity_recognition.h5'
+model_path = 'human_activity_recognition_95_95.h5'
 model = load_model(model_path)
 
 
