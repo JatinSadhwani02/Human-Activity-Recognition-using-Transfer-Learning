@@ -5,7 +5,19 @@
 
 <h2> Preprocess Dataset Link : https://drive.google.com/file/d/1Es0IpYDY3k71kz9FpW2p5AGbCIk5I_qu/view?usp=sharing </h2>
 
-<h2> Download pretrained model : https://drive.google.com/file/d/11tqGeByuntORoOJe7KLtouUD-kGpLzLN/view?usp=sharing</h2>
+<h2> 1. Download pretrained model (ImageNet) :  https://drive.google.com/file/d/1jHuW1oZ39Uxjk-v3zKh7tmmCVSrZ4jtH/view?usp=sharing <h2>
+
+<h2> 2. Download pretrained model (VGG16) : https://drive.google.com/file/d/11tqGeByuntORoOJe7KLtouUD-kGpLzLN/view?usp=sharing</h2>
+
+<h4> 
+1. Download pretrained model (ImageNet) : This is a trained model. It is giving 95% accuracy on the training data and 96% accuracy on the validation data. I'll Recommend you to use this model.
+
+2. Download pretrained model (VGG16) : This is a trained model. It is giving 90% accuracy on the training data and 91% accuracy on the validation data.
+
+</h4>
+
+
+
 
 Click on the preprocess dataset link. You will get Train_Test_video_classifier.zip file. After extract the datatset. You will get two folders training and validation. Both folders contain 45-45 category folders.
 
