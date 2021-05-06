@@ -124,7 +124,7 @@ After doing 3rd and 4rd step, Make a zip file of complete data.
 <h3> Note : Make sure before running the project, see a hierarchy of project. You'll also have to setup like below image and for use the feedback form in project, You import the human_activity_recognition.sql file in xampp or wampp server. For importing (Go to new -> Create dataset with name (human_activity_recognition) -> click on import -> choose file -> choose human_activity_recognition.sql file -> click on Go-> Done </h3>
 
 <h1> Flask application setup </h1>
-<img src="images/fours.png" alt="one" width="800" height="450">
+<img src="images/four_.png" alt="one" width="800" height="450">
 
 
 <h1>Overview of Deployement of Human Activity Recognition</h1>
